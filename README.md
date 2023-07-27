@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)](garvongit.github.io/Garv-portfolio/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6c0f9b95746151.5e9ecde69599e.gif)](garvongit.github.io/Garv-portfolio/)
 
 <h1 align="center">Hi 👋, I'm Garv Chouhan</h1>
 <h3 align="center">Passionate Frontend Developer | Creative Figma Designer | Crafting Engaging Web Experiences</h3>
